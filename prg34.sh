@@ -11,3 +11,4 @@ echo  "size of the array is ${#a[@]}"
 #End
 hhjjjkjkjk
 ssss
+where are you going
